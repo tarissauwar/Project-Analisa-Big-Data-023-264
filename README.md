@@ -79,11 +79,4 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 ### 🧹 Preperocessing Data
 1. Handling missing value.
 2. Handling duplicate data.
-3. Menghasilkan dataset yang telah disempurnakan untuk analisis.
-
-**Dataset Akhir:** Dioptimalkan untuk wawasan, dengan variabel utama meliputi:
-- `Lead Time`: Hari antara pemesanan dan check-in.
-- `Stay Duration`: Total malam yang dihabiskan.
-- `Is Canceled`: Menunjukkan apakah pemesanan dibatalkan.
-- 
 ---
