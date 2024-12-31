@@ -64,16 +64,16 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 | `Hotel`             | Tipe Hotel (City Hotel dan Resort Hotel)                |
 | `Is Canceled`       | Nilai yang menunjukkan apakah pemesanan dibatalkan (1) atau tidak (0)           |
 | `Lead Time`         | Jumlah hari yang berlalu antara tanggal pemesanan dan kedatangan     |
-| `arrival_date_year` | Tahun tanggal kedatangan            |
+| `arrival_date_year` | Tahun kedatangan            |
 | `stays_in_weekend_nights`       | Jumlah malam akhir pekan (Sabtu atau Minggu) yang tamu menginap atau pesan untuk menginap di hotel     |
 | `stays_in_week_nights`         | Jumlah malam minggu (Senin hingga Jumat) tamu menginap atau memesan untuk menginap di hotel      |
 | `booking_changes` | Jumlah perubahan/perubahan yang dilakukan pada pemesanan sejak pemesanan dimasukkan di PMS hingga saat check-in atau pembatalan             |
 | `arrival_date_day_of_month`       | Tanggal kedatangan hari      |
-| `arrival_date_month`              | Bulan tanggal kedatangan      |
-| `arrival_date_year`               | Tahun tanggal kedatangan      |
+| `arrival_date_month`              | Bulan kedatangan      |
 | `customer_type`                   | Jenis pemesanan, dengan asumsi salah satu dari empat kategori: Kontrak - bila pemesanan memiliki penjatahan atau jenis kontrak lain yang terkait dengannya; Grup – ketika pemesanan dikaitkan dengan grup; Sementara – ketika pemesanan bukan merupakan bagian dari grup atau kontrak, dan tidak terkait dengan pemesanan sementara lainnya; Pihak sementara – ketika pemesanan bersifat sementara, namun dikaitkan dengan setidaknya pemesanan sementara lainnya      |
 | `is_repeated_guest`               | Nilai yang menunjukkan apakah nama pemesanan berasal dari tamu berulang (1) atau tidak (0)      |
-| ``       |       |
+| `children`       | Jumlah anak       |
+| `babies`       | Jumlah bayi       |
 
 
 ### 🧹 Preperocessing Data
