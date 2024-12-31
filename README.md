@@ -71,11 +71,7 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 | `arrival_date_day_of_month`       | Tanggal kedatangan hari      |
 | `arrival_date_month`              | Bulan tanggal kedatangan      |
 | `arrival_date_year`               | Tahun tanggal kedatangan      |
-| `customer_type`                   | Jenis pemesanan, dengan asumsi salah satu dari empat kategori:
-                                      Kontrak - bila pemesanan memiliki penjatahan atau jenis kontrak lain yang terkait dengannya;
-                                      Grup – ketika pemesanan dikaitkan dengan grup;
-                                      Sementara – ketika pemesanan bukan merupakan bagian dari grup atau kontrak, dan tidak terkait dengan pemesanan sementara lainnya;
-                                      Pihak sementara – ketika pemesanan bersifat sementara, namun dikaitkan dengan setidaknya pemesanan sementara lainnya      |
+| `customer_type`                   | Jenis pemesanan, dengan asumsi salah satu dari empat kategori: Kontrak - bila pemesanan memiliki penjatahan atau jenis kontrak lain yang terkait dengannya; Grup – ketika pemesanan dikaitkan dengan grup; Sementara – ketika pemesanan bukan merupakan bagian dari grup atau kontrak, dan tidak terkait dengan pemesanan sementara lainnya; Pihak sementara – ketika pemesanan bersifat sementara, namun dikaitkan dengan setidaknya pemesanan sementara lainnya      |
 | `is_repeated_guest`               | Nilai yang menunjukkan apakah nama pemesanan berasal dari tamu berulang (1) atau tidak (0)      |
 | ``       |       |
 
