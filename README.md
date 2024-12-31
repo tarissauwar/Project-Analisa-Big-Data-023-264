@@ -54,7 +54,7 @@ Pustaka ini memastikan penanganan, analisis, dan visualisasi data berjalan lanca
 ## 📂 Persiapan Data
 
 ### 🌐 Sumber Data
-Data diunduh menggunakan `gdown` dari file Google Drive yang dibagikan secara publik. Anda dapat mengaksesnya dengan ID: `1iRYik8Jv2smXeklf29RDcrNvArW--W5w`.
+Kami menggunakan dataset "Hotel Booking Demand" dari [GitHub TidyTuesday]([https://www.kaggle.com/jessemostipak/hotel-booking-demand](https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-02-11/hotels.csv). Data ini adalah harta karun bagi mereka yang ingin memahami dunia perhotelan lebih dalam.
 
 ### 📊 Tentang Dataset
 Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang kami gunakan adalah:
@@ -85,11 +85,5 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 - `Lead Time`: Hari antara pemesanan dan check-in.
 - `Stay Duration`: Total malam yang dihabiskan.
 - `Is Canceled`: Menunjukkan apakah pemesanan dibatalkan.
-
-
-
+- 
 ---
-
-
-
-
