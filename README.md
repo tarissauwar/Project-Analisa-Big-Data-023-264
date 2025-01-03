@@ -36,7 +36,7 @@ Inilah langkah pertama menuju pengelolaan hotel yang lebih cerdas!
 ### 1. Clone Repository
 
 ```bash
-git clone
+git clone https://github.com/tarissauwar/Project-Analisa-Big-Data-023-264.git
 ```
 
 ### 2. Install Dependencies
