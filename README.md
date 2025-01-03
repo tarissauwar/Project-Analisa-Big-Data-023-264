@@ -31,13 +31,20 @@ Inilah langkah pertama menuju pengelolaan hotel yang lebih cerdas!
 
 ---
 
-## 📦 Package yang Diperlukan
+## 📦 Langkah Instalasi
 
-Proyek ini menggunakan pustaka Python berikut. Instal di lingkungan Anda:
+### 1. Clone Repository
 
 ```bash
-pip install pandas numpy matplotlib seaborn gdown
+git clone
 ```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 
 Pustaka ini memastikan penanganan, analisis, dan visualisasi data berjalan lancar:
 - `pandas`: Manipulasi dan pembersihan data.
