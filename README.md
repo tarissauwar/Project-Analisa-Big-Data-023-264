@@ -86,7 +86,7 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 2. Handling duplicate data.
 ---
 
-### 🔍 Wawasan Berdasarkan Fokus Penelitian
+## 🔍 Wawasan Berdasarkan Fokus Penelitian
 
 #### 🏨 *Faktor-Faktor yang Memengaruhi Pemilihan Jenis Hotel*  
 1. *Lokasi dan Kebutuhan Tamu:*
@@ -133,7 +133,7 @@ Dataset ini mencakup 119,390 entri dengan 32 kolom. Adapun beberapa fitur yang k
 
 ---
 
-### 🔑 *Kesimpulan Penting:*
+## 🔑 *Kesimpulan Penting:*
 - Hotel city dan hotel resor memiliki keunggulan unik yang sesuai dengan kebutuhan tamu tertentu. Hotel city adalah pilihan utama bagi tamu bisnis  singkat yang mengutamakan lokasi strategis dan efisiensi, dengan durasi menginap rata-rata 1-3 malam. Tamu hotel city cenderung memesan langsung dengan waktu reservasi yang mendadak, menjadikannya ideal untuk perjalanan spontan atau urusan mendesak.
 
 - Sebaliknya, hotel resor menarik perhatian tamu dengan anggaran lebih besar yang mencari pengalaman liburan panjang dan berkualitas. Dengan durasi menginap rata-rata 5-10 malam, terutama pada musim panas, resor menjadi pilihan utama bagi keluarga atau pasangan yang mengutamakan kenyamanan dan relaksasi. Sebagian besar tamu resor memesan jauh hari melalui agen perjalanan, menunjukkan pentingnya hubungan strategis dengan operator tur.
